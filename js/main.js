@@ -81,7 +81,7 @@ function getACountry(name) {
 
 function showCountry(country) {
   //getACountry(country);
-  window.location.href=window.location.hostname+ 'country.html?country='+country;
+  window.location.href=window.location.hostname+ '/country.html?country='+country;
 }
 
 
